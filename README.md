@@ -1,7 +1,5 @@
 # Breast Cancer Prediction Model with Decision Tree Classification
 
-![Breast Cancer](https://images.pexels.com/photos/101620/pexels-photo-101620.jpeg)
-
 ## Introduction
 
 This repository contains a machine learning model for breast cancer prediction using Decision Tree Classification. Decision Trees are powerful and interpretable models widely used for classification tasks. In this project, we will leverage the scikit-learn library and a breast cancer dataset to build and evaluate a Decision Tree Classification model for predicting breast cancer.
